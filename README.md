@@ -1,6 +1,6 @@
 # Hi there 👋, welcome to my GitHub!
 
-I'm **Owolabi Samuel** — a full-stack software engineer and creative professional passionate about building scalable digital products, intuitive user experiences, and innovative solutions that solve real-world problems.
+I'm **Owolabi Samuel**, a full-stack software engineer and creative professional passionate about building scalable digital products, intuitive user experiences, and innovative solutions that solve real-world problems.
 
 
 ## 🚀 Skills
